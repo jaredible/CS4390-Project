@@ -12,9 +12,14 @@ The overall goal of this project was to learn the foundations of deep learning. 
 
 ### Prerequisites
 
+You will need to 
+
 ### Installation
 
 ## Usuage
 
+
+
 ## Acknowledgements
 * [Deep Learning Course](https://github.com/badriadhikari/Deep-Learning)
+* [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/pdf/1810.08055.pdf)
