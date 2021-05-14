@@ -8,10 +8,6 @@ The overall goal of this project was to learn the foundations of deep learning. 
 
 ## Getting Started
 
-### Prerequisites
-
-You will need to 
-
 ### Installation
 
 ## Usuage
